@@ -1,0 +1,15 @@
+Manuel
+1- incluir info del las diapos iniciales en este notebook
+2-Informar la preseleccion de features intuitivamente
+3- Analisis de correlacion entre grupos de variables
+4-Que vamos a hacer con los nulos (dropear) y outliners (no hay)? 
+Juan
+5-Enriquecer algunos graficos con variantes (media, mediana) e incluir analisis
+6-Definir el target via feature engineering(mix de q26 y sus amigas) problema de clasificacion Clasificacion
+
+7- Definicion del nuevo dataset filtrado los features seleccionados, eliminando los nulos, creando el target
+8-Normalizacion de features (via scikit learn)
+9-Que hacemos con el desbalance generalizado?? entendemos que balancea el en funcion al target, consultar por desbalanceo masivo con las teachers
+10-PCA??
+
+11-Armar slides
